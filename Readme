@@ -1,0 +1,24 @@
+Meesho eCommerce Sales Dashboard | Power BI Project
+
+Objective
+The objective of this project is to develop an interactive Power BI dashboard to help Meesho store owners track and analyze their online sales performance across India. This dashboard provides key insights into sales trends, revenue distribution, and customer behavior, enabling data-driven decision-making.
+Project Overview
+This Power BI project focuses on visualizing and analyzing Meesho's eCommerce sales data. The dashboard offers interactive elements, allowing users to drill down into specific insights using filters and slicers. The project incorporates various data transformations, calculations, and advanced visualizations to enhance usability and understanding.
+
+Key Features
+✅ Interactive Dashboard – Provides a comprehensive overview of sales performance.
+✅ Drill-down Capabilities – Enables users to explore data at different granular levels using filters and slicers.
+✅ Data Modeling & Calculations – Includes relationships, joins, and calculated fields for deeper analysis.
+✅ Custom Visualizations – Utilizes bar charts, pie charts, donut charts, and clustered bar graphs for intuitive data representation.
+✅ User-driven Parameters – Empowers users to customize and analyze data based on selected criteria.
+
+Technologies Used
+🔹 Power BI (Data Visualization & Dashboard Development)
+🔹 DAX (Data Analysis Expressions for Calculations)
+🔹 Data Modeling (Joins & Relationships)
+🔹 Excel/CSV (Data Source)
+
+Outcome & Learning
+•	Developed a dynamic and interactive sales dashboard.
+•	Gained expertise in Power BI features such as data transformations, relationships, and advanced visualizations.
+•	Improved understanding of eCommerce sales analytics and business intelligence reporting.
